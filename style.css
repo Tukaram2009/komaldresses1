@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 /* section-1 */
 
@@ -71,8 +72,10 @@ nav img{
 .headercontent{
     position: relative;
     top: -380px;
-    /* left: 200px; */
+    left: 616px;
+    width: 50%;
     color: white;
+
 }
 
 
